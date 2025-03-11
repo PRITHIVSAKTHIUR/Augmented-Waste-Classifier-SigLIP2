@@ -1,0 +1,5 @@
+    labels = {
+        "0": "Battery", "1": "Biological", "2": "Cardboard", "3": "Clothes", 
+        "4": "Glass", "5": "Metal", "6": "Paper", "7": "Plastic", 
+        "8": "Shoes", "9": "Trash"
+    }
